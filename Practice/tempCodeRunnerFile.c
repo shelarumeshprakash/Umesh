@@ -1,0 +1,1 @@
+printf("s2 string: \n");

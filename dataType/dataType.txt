@@ -1,0 +1,44 @@
+Primery 
+- integer, float, double, character, void
+secoundary 
+- array, pointer, structure , enum, etc
+
+Integer - int - 2 byte
+character - char - 1 byte
+float -flout - 4 byte
+double - double - 8 bite
+void - 
+
+Modifier 
+
+A - sign - signed and unsigned 
+B - size - short and long 
+how to used 
+short int - 2 byte
+long int - 4 byte
+
+signed - indicate positive and negative value of int , char;
+unsigned - indicate only positive value 
+
+
+operation - earthmatic, relational, logical, conditional, signment, increament/decreament, bitwise, special
+
+variables and constants 
+
+scanf ("control string", variable 1, variable 2)
+
+preprocessing directives in C 
+-#incluede<stdio.h> , #define, #undef , #if, #else, #endif
+-type - micro substitution, file , compliyer 
+
+Local and global variable and callings method in c and c++
+extern A
+cout <<|| A 
+
+storage
+
+typecasting
+
+enumb
+
+typedef 
